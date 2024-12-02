@@ -13,5 +13,13 @@ This repository serves as a demonstration of fundamental Python concepts. Each s
 
 1. [Expressions](https://github.com/dwinanto34/Python/commit/2c3a3136677afec5045f196a35ca450d5619348b)
 2. [Loops](https://github.com/dwinanto34/Python/commit/bc9c9d4d211d22c3bb4394d560c2856bc9a792ed)
-3. [Methods](https://github.com/dwinanto34/Python/commit/abe97b548ec301b86a8c4865763ecdc6375ea35f)
+3. [Advance Loops](https://github.com/dwinanto34/Python/commit/8114c7633055ee3048eb7e45d5bd7eaa8ae89edb)
+4. [Methods](https://github.com/dwinanto34/Python/commit/abe97b548ec301b86a8c4865763ecdc6375ea35f)
 
+## Object oriented
+
+1. [Class and Inheritance](https://github.com/dwinanto34/Python/commit/f7b4abbe89aec5d7a3d7910eca30717b1c3bf325)
+
+## [Import modules and exception](https://github.com/dwinanto34/Python/commit/70550d74bd0c3d2e7e31ca23a696d421eb7fa4f0)
+
+## [API request](https://github.com/dwinanto34/Python/commit/e93b5b4c0ff2ee822603e74ea493638a803badb9)
